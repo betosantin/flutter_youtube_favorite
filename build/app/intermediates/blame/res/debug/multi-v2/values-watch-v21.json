@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/robertosantin/cursos/flutter_youtube_favorite/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/robertosantin/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/4c3f3152d147fa00658dcf17e9b9ded9/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

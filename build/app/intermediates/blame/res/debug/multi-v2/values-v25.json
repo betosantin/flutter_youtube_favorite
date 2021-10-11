@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/robertosantin/cursos/flutter_youtube_favorite/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/robertosantin/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/4c3f3152d147fa00658dcf17e9b9ded9/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
